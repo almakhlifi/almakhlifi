@@ -2,7 +2,7 @@
 🔭 I’m currently working on LeetCode<br><br>🌱 I’m currently learning Data Structures and Algorithms<br><br>👯 I’m looking to collaborate on a Flutter project<br><br>💬 Ask me about C++ and Java<br><br>⚡ Fun fact: I love cooking and binge watching!
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/almakhlifi) 
 
 # 💻 Tech Stack:
@@ -10,4 +10,3 @@
 
 # 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=almakhlifi&theme=calm&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=almakhlifi&limit=5&theme=calm&combine_all_yearly_contributions=true)
