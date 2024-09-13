@@ -10,6 +10,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=almakhlifi&theme=calm&hide_border=true&include_all_commits=false&count_private=false)<br/>
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=almakhlifi&theme=calm&no-frame=true&no-bg=true&margin-w=4)
